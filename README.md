@@ -1,4 +1,4 @@
-```markdown
+
 # 🎓 LectureLens — AI-Powered Lecture Summariser & Quiz Generator
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
@@ -259,7 +259,9 @@ Supports all YouTube videos with original or auto-generated captions enabled.
 ## 👩‍💻 Author
 
 **Umber Qasim**
+
 Software Engineering Student — Fatima Jinnah Women University, Rawalpindi
+
 📧 umberqasim08@gmail.com
 
 ---
@@ -271,4 +273,3 @@ This project is for educational purposes and was developed as part of the **NAVT
 ---
 
 > *"Don't just watch lectures — understand them."* 🎓
-```
