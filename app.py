@@ -657,7 +657,7 @@ with st.sidebar:
     <div class="hint-box">
         <span class="ok">✅</span> &nbsp;Original captions — supported<br>
         <span class="ok">✅</span> &nbsp;Auto-generated — supported<br>
-        <span class="no">❌</span> &nbsp;Auto-dubbed — not supported<br>
+        <span class="no">✅</span> &nbsp;Auto-dubbed — supported<br>
         <span class="no">❌</span> &nbsp;Captions disabled — not supported
     </div>
     """, unsafe_allow_html=True)
