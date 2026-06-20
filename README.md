@@ -239,7 +239,7 @@ All lecture summaries and quizzes are saved automatically after generation and c
 
 ## 📹 Demo Video
 
-[▶️ Watch Full System Demo](https://drive.google.com/file/d/1IuT4jeESBz0VSrcdYPnIJTkb-6f_N_xb/view?usp=sharing)
+[▶️ Watch Full System Demo](https://drive.google.com/file/d/1ZdiAzPjFCCnu7rlbg9U3g2hle8gDd5ls/view?usp=sharing)
 
 > The demo walkthrough covers:
 > - Pasting a YouTube URL and fetching transcript
